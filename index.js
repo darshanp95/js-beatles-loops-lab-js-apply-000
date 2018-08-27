@@ -41,13 +41,13 @@ function iLoveTheBeatles(num) {
   
   if (num < 15) {
   do {
-    array.push("I love the beatles!")
+    array.push("I love the Beatles!")
     i++
   
   } while(i<num+1)
 
   } else {
-    array.push("I love the Beatles")
+    array.push("I love the Beatles!")
   }
 
   return array
